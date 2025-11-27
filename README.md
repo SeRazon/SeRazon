@@ -9,6 +9,7 @@
 - **Twitter** : starsriver779
 - **E-mail** : serazon@qq.com
 
-### 📑Code Status
-<img  src="https://github-readme-stats.vercel.app/api?username=SeRazon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeRazon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+### 📑My Image
+<!--<img  src="https://github-readme-stats.vercel.app/api?username=SeRazon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeRazon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
+![](./73cd5298afd47592f959662d1b78fa81.jpg)
