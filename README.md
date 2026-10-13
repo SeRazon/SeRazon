@@ -23,7 +23,11 @@
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=SeRazon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeRazon&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> -->
 <!--[]https://file.xhsr.org.cn/%E6%97%A0%E6%A0%87%E9%A2%98230_20250214180759_1767383333724.png)-->
-<div align="center">
+<!-- <div align="center">
   <img src="https://file.xhsr.org.cn/%E6%97%A0%E6%A0%87%E9%A2%98230_20250214180759_1767383333724.png" width="250">
   <img src="https://blog.xhsr.org.cn/wp-content/uploads/2026/01/Image_1785515878667_452.jpg" width="250">
+</div> -->
+<div align="center">
+  <img src="/a.webp" width="250">
+  <img src="/b.webp" width="250">
 </div>
